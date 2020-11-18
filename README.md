@@ -3,3 +3,6 @@ This repository is used to demonstrate a basic editing worklfow between a local 
 
 ## Subheader
 here is some text
+* point 1
+* point 2
+* point 3
